@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "New stream",
+      "description": "neww",
+      "id": 2
+    },
+    {
+      "title": "is this working 2",
+      "description": "plzz 2",
+      "id": 7
+    },
+    {
+      "title": "New stream",
+      "description": "my stream",
+      "userId": "104355390856006448482",
+      "id": 8
+    },
+    {
+      "title": "new",
+      "description": "1234",
+      "userId": "104355390856006448482",
+      "id": 9
+    },
+    {
+      "title": "134",
+      "description": "2345",
+      "userId": "104355390856006448482",
+      "id": 10
+    }
+  ]
+}
